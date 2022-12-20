@@ -98,7 +98,7 @@ export const App = () => {
                 type="email"
                 value={email}
                 defaultValue=""
-                placeholder="例) example@gmail.me"
+                placeholder="例) example@gmail.com"
                 onChange={onChangeEmail}
               ></input>
             </div>
